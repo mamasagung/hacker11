@@ -1,0 +1,11 @@
+Penginstallan:
+
+$ apt update && apt upgrade
+$ pkg install python2 git
+$ git clone https://github.com/B4N954N2-ID/termux-style
+$ cd termux-style
+$ python2 run.py
+
+Thanks for watching..
+Jangan lupa subscribe channel youtube admin SANZ SOEKAMTI
+Thanks Lur ^_^
